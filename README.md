@@ -68,7 +68,7 @@ The economic crisis triggered by the pandemic has had a disproportionate impact 
 As the world navigates this unprecedented challenge, it is crucial to understand the basics of COVID-19. The virus causes a range of symptoms, from mild flu-like illnesses to severe respiratory distress. It can spread through sneezing and coughing droplets, making prevention and containment measures vital. By working together and staying informed, we can reduce the transmission of COVID-19 and build a stronger, more resilient future for all.
 ```
 
-While invoking the agent with topic `ohit Sharma` used the wikipedia tool to generate the response as
+While invoking the agent with topic `Rohit Sharma` used the wikipedia tool to generate the response as
 ```
 Here's a 3-paragraph article on Rohit Sharma:
 
