@@ -1,7 +1,7 @@
 ## Retrieval-Augmented Generation (RAG) Pipeline
 
 ### Overview
-This repo demonstrates the implementation of a **Retrieval-Augmented Generation (RAG)** pipeline using **Ollama, LangChain, and ChromaDB**. The workflow involves extracting text from PDF documents, chunking the text, generating embeddings, storing them in a vector database, and performing similarity-based retrieval for query processing.
+This repo demonstrates the generation of a short news article on a given topic using a **Retrieval-Augmented Generation (RAG)** pipeline with **Ollama, LangChain, and ChromaDB**. The workflow involves extracting text from PDF documents, segmenting the text into chunks, generating embeddings, storing them in a vector database, and performing similarity-based retrieval for query processing.
 
 
 ### What is RAG?
